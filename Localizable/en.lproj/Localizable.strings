@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  A_simple_TODO_list
+
+  Created by Kun Tai KAO on 1/12/17.
+  Copyright © 2017 Kun Tai KAO. All rights reserved.
+*/
+
+"OK_LABEL" = "Ok";
+"JSON_PARSE_ERROR" = "Error with the information format.";
+"REQUEST_ERROR" = "Error donwloading info.";
